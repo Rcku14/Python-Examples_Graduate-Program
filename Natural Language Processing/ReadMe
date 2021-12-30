@@ -1,0 +1,3 @@
+This folder contains all the Natural Language Processing (NLP) Assignments I had for class. 
+These assignments include an introductory to importing text data, doing preprocessing such as lowering case words, removining duplicates and stopwords,etc.
+Lastly, there is also a final project which we do text summarization using different extractive and abstractive techniques. 
