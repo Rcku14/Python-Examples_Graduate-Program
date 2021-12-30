@@ -1,1 +1,4 @@
+This folder contains different visualization methods and tools used to display the data.
+This includes using seaborn and matplotlib libraries.
+It also includes the Tableau visualizations I was able to create.
 
